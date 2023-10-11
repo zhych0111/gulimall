@@ -13,12 +13,12 @@ buildNumber.properties
 **/mvnw
 **/mvnw.cmd
 **/.mvn
-**/target/
+#**/target/
 .idea
 **/.gitignore
 
 # Eclipse m2e generated files
 # Eclipse Core
-.project
+#.project
 # JDT-specific (Eclipse Java Development Tools)
-.classpath
+#.classpath
